@@ -9,12 +9,15 @@ import GraphChart from "../Components/Graph";
 function MainLayout() {
 
     const items = [
-        { text: "ROF Chart" , id: "ROF"},
-        { text: "Scatter Chart", id: "Scatter" },
-        { text: "Media Chart", id: "BarChart" },
-        { text: "Parent Media Chart", id: "PieChart" },
+        { text: "Introduction" , id: "intro"},
+        { text: "Digital Influence Map" , id: "ROF"},
+        { text: "Social Media Spread", id: "Scatter" },
+        { text: "China's Social Media Titan", id: "BarChart" },
+        { text: "Pie Chart Visualization", id: "PieChart" },
         { text: "Parent World Chart", id: "WorldPie" },
-        { text: "Graph", id: "GraphChart" },
+        { text: "Chinese State Media Influence", id: "GraphChart" },
+        { text: "Conclusion", id: "conclusion" },
+        { text: "Implementation", id: "implementation" },
     ];
 
     function scrollToItem(event) {
@@ -31,7 +34,7 @@ function MainLayout() {
         <>
             <div className="app">
                 <div className="flex-container-1">
-                    <h1>Introduction</h1>
+                    <h1 id="intro">Introduction</h1>
                     <div style={{ marginBottom: "30px",   textAlign: "justify", textJustify: "inter-word" }} >
                     <p>In a world increasingly connected by the invisible threads of the internet, the power of media has never been more pronounced. Among the global players in this digital arena, Chinese state media stands as a formidable force, weaving narratives that reach far beyond the Great Wall. But what is the true extent of this influence? How does the dragon of the East make its presence felt in the vast expanse of the digital world?</p>
 
@@ -123,7 +126,7 @@ On Twitter, the chart shows a significant portion attributed to the State Counci
                         <GraphChart />
                     </div>
 
-                    <h2 className="titles">Conclusion</h2>
+                    <h2 className="titles" id="conclusion">Conclusion</h2>
                         <div className="alingText">
                             <p>Our data-driven journey through Chinese state media's digital reach underscores a strategic, multifaceted presence on the global stage. The visualizations we've dissected reveal not just a quantitative footprint of followers and languages, but a qualitative display of influence and intent.</p>
                             <p>The interconnectedness of entities, the linguistic adaptability, and the targeted regional engagement speak to a nuanced approach to narrative construction—one that is keenly attuned to the dynamics of international discourse.</p>
@@ -131,9 +134,9 @@ On Twitter, the chart shows a significant portion attributed to the State Counci
                             
                     </div>
 
-                    <h2 className="titles">Implementation</h2>
+                    <h2 className="titles" id="implementation">Implementation</h2>
                         <div className="alingText">
-                            <p>To visualize the extensive data on Chinese state media influence, we developed an interactive front-end using Vue.js, chosen for its responsive and component-driven architecture. Vite further streamlined our development process with its fast build times.</p>
+                            <p>To visualize the extensive data on Chinese state media influence, we developed an interactive front-end using React.js, chosen for its responsive and component-driven architecture. Vite further streamlined our development process with its fast build times.</p>
                             <p>The backend analysis was powered by Python, utilizing libraries such as NumPy and Pandas for data manipulation, and NetworkX for mapping the complex relationships between media entities. Visualization was achieved through Pyplot and Seaborn, which translated our data into clear, engaging charts and graphs, making our findings both accessible and compelling.</p>
                             
                     </div>
@@ -154,7 +157,7 @@ On Twitter, the chart shows a significant portion attributed to the State Counci
                                         <span style={{ marginLeft: '10px' }}>{item.text}</span>
                                     </div>
                                 </a>
-                                {(index != 5) && <span className="material-symbols-outlined" style={{ color: "#fec820", display: "block" }}>
+                                {(index != 8) && <span className="material-symbols-outlined" style={{ color: "#fec820", display: "block" }}>
                                     more_vert
                                 </span>
                                 }
