@@ -1,9 +1,17 @@
-# React + Vite
+# The Digital Silk Road of Influence
+CANIS-Data-Visualization-and-Foreign-Interference
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can find the data preprocessing, exploring and EDA in this [notebook](https://github.com/ahforoughi/CANIS-Data-Visualization-and-Foreign-Interference/blob/main/Canis-DataVisualization.ipynb). 
 
-Currently, two official plugins are available:
+The out put for the visualiztion and the json file for reading by the fontend are listed [here](https://github.com/ahforoughi/CANIS-Data-Visualization-and-Foreign-Interference/tree/main/python_code).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# CANIS-Data-Visualization-and-Foreign-Interference
+## How to run
+you can run this project by install packages first: 
+
+> npm install
+
+then run the app:
+
+> npm run dev
+
+ 
