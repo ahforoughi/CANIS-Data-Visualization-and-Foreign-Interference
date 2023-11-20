@@ -1,0 +1,785 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Central Publicity Department",
+      "symbolSize": 70,
+      "x": -357.028801453493,
+      "y": -12.63465437693472,
+      "value": 623431031.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "1",
+      "name": "Central Committee of the Chinese Communist Party",
+      "symbolSize": 50,
+      "x": -278.85625746657547,
+      "y": 36.54208831467827,
+      "value": 242607473.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "2",
+      "name": "State Council",
+      "symbolSize": 50,
+      "x": -157.91284068819851,
+      "y": -103.74139581869018,
+      "value": 240347703.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "3",
+      "name": "Ministry of Foreign Affairs",
+      "symbolSize": 40,
+      "x": -78.4982407823122,
+      "y": -80.56264221943454,
+      "value": 13970539.0,
+      "category": 2,
+      "language": "German"
+    },
+    {
+      "id": "4",
+      "name": "Shanghai Municipal Committee",
+      "symbolSize":30,
+      "x": 11.962460004616492,
+      "y": -30.431842601375223,
+      "value": 8923523.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "5",
+      "name": "Chongqing Municipal Committee",
+      "symbolSize": 30,
+      "x": 133.2271487374241,
+      "y": -88.0046323911793,
+      "value": 7228332.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "name": "unknown",
+      "symbolSize": 30,
+      "x": 289.3898409708844,
+      "y": 76.00585145452084,
+      "value": 5954229.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "7",
+      "name": "Hunan Provincial People's Government",
+      "symbolSize": 25,
+      "x": 390.17991284867094,
+      "y": -171.5307650900327,
+      "value": 5260100.0,
+      "category": 1,
+      "language": "Chinese"
+    },
+    {
+      "id": "8",
+      "name": "Beijing Municipal People's Government",
+      "symbolSize": 20,
+      "x": 162.6727692084776,
+      "y": 151.2941099905454,
+      "value": 4212700.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "9",
+      "name": "United Front Work Department",
+      "symbolSize": 20,
+      "x": 398.1838223485628,
+      "y": -78.157626260671,
+      "value": 4174393.0,
+      "category": 1,
+      "language": "Chinese"
+    },
+    {
+      "id": "10",
+      "name": "Ministry of Culture and Tourism",
+      "symbolSize": 20,
+      "x": 181.8533198936475,
+      "y": 173.63733178756303,
+      "value": 4024600.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "11",
+      "name": "Bauhinia Culture Holdings Limited",
+      "symbolSize": 20,
+      "x": 12.638088930292035,
+      "y": -81.74401003045362,
+      "value": 3734375.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "12",
+      "name": "Guangdong Provincial Committee",
+      "symbolSize": 20,
+      "x": 124.71563131484535,
+      "y": -75.2224891769484,
+      "value": 3088225.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "13",
+      "name": "Sanya Municipal People's Government",
+      "symbolSize": 15,
+      "x": 119.28901338831378,
+      "y": 141.80238193666014,
+      "value": 1584271.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "14",
+      "name": "Shandong Provincial People's Government",
+      "symbolSize": 15,
+      "x": 150.27401388058598,
+      "y": -190.73930566111628,
+      "value": 1558550.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "15",
+      "name": "Nanjing Municipal People's Government",
+      "symbolSize": 15,
+      "x": 198.73826714406783,
+      "y": -54.37941747086913,
+      "value": 1459700.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "16",
+      "name": "Shanghai Academy of Social Sciences (SASS)",
+      "symbolSize": 10,
+      "x": 15.598097974063684,
+      "y": 121.07061707143146,
+      "value": 1296068.0,
+      "category": 1,
+      "language": "Chinese"
+    },
+    {
+      "id": "17",
+      "name": "Jiangxi Provincial People's Government",
+      "symbolSize": 10,
+      "x": 186.6601561302242,
+      "y": 196.54145401679665,
+      "value": 1288000.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "18",
+      "name": "Wuxi Municipal People's Government",
+      "symbolSize": 10,
+      "x": 198.62682928345646,
+      "y": 60.9967145298661,
+      "value": 1262609.0,
+      "category": 0,
+      "language": "English"
+    },
+    {
+      "id": "19",
+      "name": "Sansha Municipal People's Government",
+      "symbolSize": 5,
+      "x": 112.04271501102023,
+      "y": 178.45369052547443,
+      "value": 1100000.0,
+      "category": 0,
+      "language": "English"
+    }
+  ],
+  "links": [
+    {
+      "source": "0",
+      "target": "1"
+    },
+    {
+      "source": "0",
+      "target": "2"
+    },
+    {
+      "source": "0",
+      "target": "3"
+    },
+    {
+      "source": "0",
+      "target": "4"
+    },
+    {
+      "source": "0",
+      "target": "6"
+    },
+    {
+      "source": "0",
+      "target": "8"
+    },
+    {
+      "source": "0",
+      "target": "9"
+    },
+    {
+      "source": "0",
+      "target": "10"
+    },
+    {
+      "source": "0",
+      "target": "11"
+    },
+    {
+      "source": "0",
+      "target": "15"
+    },
+    {
+      "source": "0",
+      "target": "16"
+    },
+    {
+      "source": "0",
+      "target": "18"
+    },
+    {
+      "source": "1",
+      "target": "0"
+    },
+    {
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "source": "1",
+      "target": "3"
+    },
+    {
+      "source": "1",
+      "target": "4"
+    },
+    {
+      "source": "1",
+      "target": "6"
+    },
+    {
+      "source": "1",
+      "target": "8"
+    },
+    {
+      "source": "1",
+      "target": "9"
+    },
+    {
+      "source": "1",
+      "target": "10"
+    },
+    {
+      "source": "1",
+      "target": "11"
+    },
+    {
+      "source": "1",
+      "target": "15"
+    },
+    {
+      "source": "1",
+      "target": "16"
+    },
+    {
+      "source": "1",
+      "target": "18"
+    },
+    {
+      "source": "2",
+      "target": "0"
+    },
+    {
+      "source": "2",
+      "target": "1"
+    },
+    {
+      "source": "2",
+      "target": "3"
+    },
+    {
+      "source": "2",
+      "target": "4"
+    },
+    {
+      "source": "2",
+      "target": "6"
+    },
+    {
+      "source": "2",
+      "target": "8"
+    },
+    {
+      "source": "2",
+      "target": "9"
+    },
+    {
+      "source": "2",
+      "target": "10"
+    },
+    {
+      "source": "2",
+      "target": "11"
+    },
+    {
+      "source": "2",
+      "target": "15"
+    },
+    {
+      "source": "2",
+      "target": "16"
+    },
+    {
+      "source": "2",
+      "target": "18"
+    },
+    {
+      "source": "3",
+      "target": "0"
+    },
+    {
+      "source": "3",
+      "target": "1"
+    },
+    {
+      "source": "3",
+      "target": "2"
+    },
+    {
+      "source": "3",
+      "target": "4"
+    },
+    {
+      "source": "3",
+      "target": "6"
+    },
+    {
+      "source": "3",
+      "target": "8"
+    },
+    {
+      "source": "3",
+      "target": "9"
+    },
+    {
+      "source": "3",
+      "target": "10"
+    },
+    {
+      "source": "3",
+      "target": "11"
+    },
+    {
+      "source": "3",
+      "target": "15"
+    },
+    {
+      "source": "3",
+      "target": "16"
+    },
+    {
+      "source": "3",
+      "target": "18"
+    },
+    {
+      "source": "4",
+      "target": "0"
+    },
+    {
+      "source": "4",
+      "target": "1"
+    },
+    {
+      "source": "4",
+      "target": "2"
+    },
+    {
+      "source": "4",
+      "target": "3"
+    },
+    {
+      "source": "4",
+      "target": "6"
+    },
+    {
+      "source": "4",
+      "target": "8"
+    },
+    {
+      "source": "4",
+      "target": "10"
+    },
+    {
+      "source": "4",
+      "target": "11"
+    },
+    {
+      "source": "4",
+      "target": "15"
+    },
+    {
+      "source": "4",
+      "target": "16"
+    },
+    {
+      "source": "4",
+      "target": "18"
+    },
+    {
+      "source": "6",
+      "target": "0"
+    },
+    {
+      "source": "6",
+      "target": "1"
+    },
+    {
+      "source": "6",
+      "target": "2"
+    },
+    {
+      "source": "6",
+      "target": "3"
+    },
+    {
+      "source": "6",
+      "target": "4"
+    },
+    {
+      "source": "6",
+      "target": "8"
+    },
+    {
+      "source": "6",
+      "target": "9"
+    },
+    {
+      "source": "6",
+      "target": "10"
+    },
+    {
+      "source": "6",
+      "target": "11"
+    },
+    {
+      "source": "6",
+      "target": "13"
+    },
+    {
+      "source": "6",
+      "target": "15"
+    },
+    {
+      "source": "6",
+      "target": "18"
+    },
+    {
+      "source": "6",
+      "target": "19"
+    },
+    {
+      "source": "8",
+      "target": "0"
+    },
+    {
+      "source": "8",
+      "target": "1"
+    },
+    {
+      "source": "8",
+      "target": "2"
+    },
+    {
+      "source": "8",
+      "target": "3"
+    },
+    {
+      "source": "8",
+      "target": "4"
+    },
+    {
+      "source": "8",
+      "target": "6"
+    },
+    {
+      "source": "8",
+      "target": "10"
+    },
+    {
+      "source": "8",
+      "target": "11"
+    },
+    {
+      "source": "8",
+      "target": "15"
+    },
+    {
+      "source": "8",
+      "target": "18"
+    },
+    {
+      "source": "9",
+      "target": "0"
+    },
+    {
+      "source": "9",
+      "target": "1"
+    },
+    {
+      "source": "9",
+      "target": "2"
+    },
+    {
+      "source": "9",
+      "target": "3"
+    },
+    {
+      "source": "9",
+      "target": "6"
+    },
+    {
+      "source": "9",
+      "target": "11"
+    },
+    {
+      "source": "9",
+      "target": "16"
+    },
+    {
+      "source": "10",
+      "target": "0"
+    },
+    {
+      "source": "10",
+      "target": "1"
+    },
+    {
+      "source": "10",
+      "target": "2"
+    },
+    {
+      "source": "10",
+      "target": "3"
+    },
+    {
+      "source": "10",
+      "target": "4"
+    },
+    {
+      "source": "10",
+      "target": "6"
+    },
+    {
+      "source": "10",
+      "target": "8"
+    },
+    {
+      "source": "10",
+      "target": "11"
+    },
+    {
+      "source": "10",
+      "target": "15"
+    },
+    {
+      "source": "10",
+      "target": "18"
+    },
+    {
+      "source": "11",
+      "target": "0"
+    },
+    {
+      "source": "11",
+      "target": "1"
+    },
+    {
+      "source": "11",
+      "target": "2"
+    },
+    {
+      "source": "11",
+      "target": "3"
+    },
+    {
+      "source": "11",
+      "target": "4"
+    },
+    {
+      "source": "11",
+      "target": "6"
+    },
+    {
+      "source": "11",
+      "target": "8"
+    },
+    {
+      "source": "11",
+      "target": "9"
+    },
+    {
+      "source": "11",
+      "target": "10"
+    },
+    {
+      "source": "11",
+      "target": "15"
+    },
+    {
+      "source": "11",
+      "target": "16"
+    },
+    {
+      "source": "11",
+      "target": "18"
+    },
+    {
+      "source": "13",
+      "target": "6"
+    },
+    {
+      "source": "13",
+      "target": "19"
+    },
+    {
+      "source": "15",
+      "target": "0"
+    },
+    {
+      "source": "15",
+      "target": "1"
+    },
+    {
+      "source": "15",
+      "target": "2"
+    },
+    {
+      "source": "15",
+      "target": "3"
+    },
+    {
+      "source": "15",
+      "target": "4"
+    },
+    {
+      "source": "15",
+      "target": "6"
+    },
+    {
+      "source": "15",
+      "target": "8"
+    },
+    {
+      "source": "15",
+      "target": "10"
+    },
+    {
+      "source": "15",
+      "target": "11"
+    },
+    {
+      "source": "15",
+      "target": "18"
+    },
+    {
+      "source": "16",
+      "target": "0"
+    },
+    {
+      "source": "16",
+      "target": "1"
+    },
+    {
+      "source": "16",
+      "target": "2"
+    },
+    {
+      "source": "16",
+      "target": "3"
+    },
+    {
+      "source": "16",
+      "target": "4"
+    },
+    {
+      "source": "16",
+      "target": "9"
+    },
+    {
+      "source": "16",
+      "target": "11"
+    },
+    {
+      "source": "18",
+      "target": "0"
+    },
+    {
+      "source": "18",
+      "target": "1"
+    },
+    {
+      "source": "18",
+      "target": "2"
+    },
+    {
+      "source": "18",
+      "target": "3"
+    },
+    {
+      "source": "18",
+      "target": "4"
+    },
+    {
+      "source": "18",
+      "target": "6"
+    },
+    {
+      "source": "18",
+      "target": "8"
+    },
+    {
+      "source": "18",
+      "target": "10"
+    },
+    {
+      "source": "18",
+      "target": "11"
+    },
+    {
+      "source": "18",
+      "target": "15"
+    },
+    {
+      "source": "19",
+      "target": "6"
+    },
+    {
+      "source": "19",
+      "target": "13"
+    }
+  ],
+  "categories": [
+    {
+      "name": "English"
+    },
+    {
+      "name": "Chineese"
+    },
+    {
+      "name": "German"
+    }
+  ]
+}

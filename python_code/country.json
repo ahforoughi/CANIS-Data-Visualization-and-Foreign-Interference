@@ -1,0 +1,442 @@
+{
+    "USA": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 25
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 152
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 24
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 1
+        },
+        {
+            "name": "State Council",
+            "value": 27
+        }
+    ],
+    "Anglosphere": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 22
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 147
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 14
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 1
+        },
+        {
+            "name": "State Council",
+            "value": 26
+        }
+    ],
+    "Canada": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 23
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 147
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 18
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 1
+        },
+        {
+            "name": "State Council",
+            "value": 26
+        }
+    ],
+    "Russia": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 2
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 2
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "Australia": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 23
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 147
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 17
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 1
+        },
+        {
+            "name": "State Council",
+            "value": 26
+        }
+    ],
+    "New Zealand": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 0
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 2
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "China": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 5
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 11
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 2
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 12
+        },
+        {
+            "name": "State Council",
+            "value": 3
+        }
+    ],
+    "Shanghai": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 0
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 0
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 12
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "Hong Kong": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 1
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 1
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 1
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 1
+        }
+    ],
+    "Japan": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 2
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 6
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 11
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 1
+        }
+    ],
+    "India": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 6
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 5
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 1
+        }
+    ],
+    "UK": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 1
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 6
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 1
+        }
+    ],
+    "Pakistan": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 7
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 5
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "Brazil": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 1
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 7
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "Germany": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 9
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 7
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "Iran": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 10
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 3
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "la Francophonie": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 14
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 0
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "Hispanophone": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 9
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 3
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 1
+        }
+    ],
+    "MENA": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 8
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 1
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ],
+    "EU": [
+        {
+            "name": "Central Committee of the Chinese Communist Party",
+            "value": 0
+        },
+        {
+            "name": "Central Publicity Department",
+            "value": 6
+        },
+        {
+            "name": "Ministry of Foreign Affairs",
+            "value": 2
+        },
+        {
+            "name": "Shanghai Municipal Committee",
+            "value": 0
+        },
+        {
+            "name": "State Council",
+            "value": 0
+        }
+    ]
+}
